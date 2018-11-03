@@ -1,0 +1,7 @@
+dev file1
+dev change from remote
+<<<<<<< HEAD
+dev change from local
+=======
+dev change from remote2
+>>>>>>> 202ce79486e3dd2601193ae1f7c5e81969d4fe6c
