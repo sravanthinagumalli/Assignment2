@@ -1,3 +1,7 @@
 first
 second to local
+<<<<<<< HEAD
 third to remote
+=======
+fourth to local
+>>>>>>> e7ef49f7a1136810577326f9a9dc73687aba7453
