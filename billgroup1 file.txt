@@ -1,3 +1,4 @@
 new bill group 1 file.....
 changes1
 changes remote 2
+changes 4 to local
